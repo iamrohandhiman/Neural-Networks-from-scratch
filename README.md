@@ -3,7 +3,7 @@
 
 A Simple Neural Network Library for Multi-Layer Perceptron (MLP) using NumPy 
 
-This project stems from my curiosity and passion for translating mathematical equations into practical applications. Inspired by resources such as The Independent Code, Andrew Ng's Machine Learning course, StatQuest, and 3Blue1Brown. The implementation utilizes NumPy , providing a straightforward look into the workings of a multi-layer perceptron. 
+This project stems from my curiosity and passion for translating mathematical equations into practical applications. Inspired by resources such as The Independent Code, Andrew Ng's Machine Learning course, StatQuest, and 3Blue1Brown. The implementation utilizes NumPy , providing a straightforward look into the workings of a multi-layer perceptron. (No Libraries used !)
 
 check out math here :   [Neural Network Math by Rohan Dhiman](https://drive.google.com/file/d/1gCDmMrSBulgsnRXG4yBMVx0m72YoE9BG/view?usp=sharing)
 #
